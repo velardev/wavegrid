@@ -1,7 +1,3 @@
-import LineAnimationCanada from './line-animation-canada'
-import LineAnimationZero from './line-animation-zero'
-import LineAnimationOne from './line-animation-one'
-
 const Services = () => {
 	return (
 		<div className="flex flex-col py-12 md:py-24 px-4 md:px-8 lg:px-16">
