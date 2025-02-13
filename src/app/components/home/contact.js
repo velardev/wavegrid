@@ -10,7 +10,7 @@ const Contact = () => {
 					with <span className="font-[family-name:var(--font-poly-sans)] tracking-[-0.075em]">Wave/Grid</span>
 				</h2>
 				<div className="flex gap-6 justify-center items-center mt-8">
-					<Link href="/" scroll={true} className="py-2 px-4 bg-blue-600 border-2 border-blue-600 rounded-full text-white font-medium font-[family-name:var(--font-poly-sans)] active:scale-95 transition transition-duration-300">Book a call now</Link>
+					<Link href="https://calendly.com/velardev/30min" scroll={true} className="py-2 px-4 bg-blue-600 border-2 border-blue-600 rounded-full text-white font-medium font-[family-name:var(--font-poly-sans)] active:scale-95 transition transition-duration-300">Book a call now</Link>
 					<Link href="/contact" scroll={true} className="py-2 px-4 bg-transparent border-2 border-blue-600 rounded-full text-blue-600 font-medium font-[family-name:var(--font-poly-sans)] active:scale-95 transition transition-duration-300">Or message us</Link>
 				</div>
 			</div>

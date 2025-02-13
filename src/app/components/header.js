@@ -73,7 +73,7 @@ const Header = () => {
 					))}
 				</ul>
 			</nav>
-			<Link href="/contact" className="py-2 px-4 bg-blue-600 rounded-2xl text-white text-sm font-medium font-[family-name:var(--font-poly-sans)] active:scale-95 transition transition-duration-300">Book a call</Link>
+			<Link href="https://calendly.com/velardev/30min" className="py-2 px-4 bg-blue-600 rounded-2xl text-white text-sm font-medium font-[family-name:var(--font-poly-sans)] active:scale-95 transition transition-duration-300">Book a call</Link>
 		</header>
 	)
 }
