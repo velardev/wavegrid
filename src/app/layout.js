@@ -1,5 +1,5 @@
 import { Geist, Geist_Mono } from 'next/font/google'
-import { localFont } from 'next/font/local'
+import localFont from 'next/font/local'
 import './globals.css'
 import Header from '@/app/components/header'
 import Footer from '@/app/components/footer'
