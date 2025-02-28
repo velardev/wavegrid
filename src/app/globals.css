@@ -16,5 +16,10 @@
 
 body {
   color: var(--foreground);
-  background: var(--background);
+}
+
+.homepage-hero,
+.contact-hero,
+.faq-hero {
+  background: linear-gradient(90deg, #fff calc(1.5rem - 2px), transparent 1%) center / 1.5rem 1.5rem, linear-gradient(#fff calc(1.5rem - 2px), transparent 1%) center / 1.5rem 1.5rem, #ddd;
 }
