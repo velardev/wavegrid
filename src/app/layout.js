@@ -3,6 +3,7 @@ import localFont from 'next/font/local'
 import './globals.css'
 import Header from '@/app/components/header'
 import Footer from '@/app/components/footer'
+import Script from 'next/script'
 
 const geistSans = Geist({
 	variable: '--font-geist-sans',
